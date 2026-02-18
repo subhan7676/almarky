@@ -21,7 +21,7 @@
     ],
     "paths": {
       "@/*": ["src/*"],
-      "@/types/commerce": ["src/types/commerce/index.ts", "src/types/commerce.ts"],
+      "@/types/commerce": ["src/types/commerce/index.ts"],
       "@/lib/validation": ["src/lib/validation/index.ts"]
     }
   },
