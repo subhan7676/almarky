@@ -20,7 +20,9 @@
       }
     ],
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["src/*"],
+      "@/types/commerce": ["src/types/commerce/index.ts", "src/types/commerce.ts"],
+      "@/lib/validation": ["src/lib/validation/index.ts"]
     }
   },
   "include": [
