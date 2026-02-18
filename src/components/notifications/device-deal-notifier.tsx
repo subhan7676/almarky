@@ -9,7 +9,7 @@ import {
 import { toDate } from "@/lib/utils";
 import { useAuth } from "@/components/providers/auth-provider";
 import { useLocalProfile } from "@/components/providers/local-profile-provider";
-import type { Notification } from "@/types/commerce";
+import type { Notification as CommerceNotification } from "@/types/commerce";
 
 const MAX_DEAL_NOTIFICATIONS = 120;
 
@@ -21,7 +21,7 @@ function getUserKey(email?: string | null) {
 export function DeviceDealNotifier() {
   const { configured } = useAuth();
   const { profile, updateProfile } = useLocalProfile();
-  const [dealNotifications, setDealNotifications] = useState<Notification[]>([]);
+  const [dealNotifications, setDealNotifications] = useState<CommerceNotification[]>([]);
   const seenKey = useMemo(() => getUserKey(profile.email), [profile.email]);
   const lastSeenRef = useRef(0);
   const initRef = useRef(false);
@@ -79,7 +79,7 @@ export function DeviceDealNotifier() {
     const latest = upcoming[upcoming.length - 1];
     const target = latest.note;
     try {
-      const notification = new Notification(target.title || "Hot Deal", {
+    const notification = new Notification(target.title || "Hot Deal", {
         body: target.body,
         icon: "/icon",
         badge: "/icon",
@@ -88,8 +88,9 @@ export function DeviceDealNotifier() {
       });
       notification.onclick = () => {
         const link =
-          (notification as Notification & { data?: { linkUrl?: string } }).data
-            ?.linkUrl || target.linkUrl || "/notifications";
+          (notification as { data?: { linkUrl?: string } }).data?.linkUrl ||
+          target.linkUrl ||
+          "/notifications";
         window.open(link, "_self");
       };
     } catch {
