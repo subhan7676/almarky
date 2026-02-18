@@ -1,0 +1,43 @@
+{
+  "name": "almarky",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --webpack",
+    "dev:restart": "node scripts/restart-dev.mjs",
+    "dev:fast": "next dev --webpack -p 3000",
+    "build": "next build",
+    "start": "next start",
+    "start:fast": "next build && next start -p 3000",
+    "lint": "eslint",
+    "seed:products": "node scripts/seed-example-products.mjs",
+    "check:deploy": "node scripts/check-deploy-env.mjs",
+    "check:live": "node scripts/check-live-status.mjs",
+    "check:contact": "node scripts/check-contact-endpoint.mjs",
+    "smoke:order": "node scripts/smoke-order-place.mjs",
+    "smoke:admin": "node scripts/smoke-admin-products.mjs"
+  },
+  "dependencies": {
+    "@opentelemetry/api": "^1.9.0",
+    "buffer": "^6.0.3",
+    "clsx": "^2.1.1",
+    "dotenv": "^17.3.1",
+    "firebase": "^12.9.0",
+    "firebase-admin": "^13.6.1",
+    "googleapis": "^171.4.0",
+    "lucide-react": "^0.564.0",
+    "next": "16.1.6",
+    "react": "19.2.3",
+    "react-dom": "19.2.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.6",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

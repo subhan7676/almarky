@@ -1,0 +1,1714 @@
+﻿[
+  {
+    "name": "2CylinderEngine",
+    "path": "2.0/2CylinderEngine",
+    "sha": "ada0414095ddafc70be999695aac4fe44572e998",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/2CylinderEngine?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/2CylinderEngine",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/ada0414095ddafc70be999695aac4fe44572e998",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/2CylinderEngine?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/ada0414095ddafc70be999695aac4fe44572e998",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/2CylinderEngine"
+    }
+  },
+  {
+    "name": "ABeautifulGame",
+    "path": "2.0/ABeautifulGame",
+    "sha": "1d94d6c1a79fc25aac1eb068f01809d5f890c93e",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/ABeautifulGame?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/ABeautifulGame",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/1d94d6c1a79fc25aac1eb068f01809d5f890c93e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/ABeautifulGame?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/1d94d6c1a79fc25aac1eb068f01809d5f890c93e",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/ABeautifulGame"
+    }
+  },
+  {
+    "name": "AlphaBlendModeTest",
+    "path": "2.0/AlphaBlendModeTest",
+    "sha": "b806874aaf8af7debe2daeda623bbee7554a62c3",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/AlphaBlendModeTest?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/AlphaBlendModeTest",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/b806874aaf8af7debe2daeda623bbee7554a62c3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/AlphaBlendModeTest?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/b806874aaf8af7debe2daeda623bbee7554a62c3",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/AlphaBlendModeTest"
+    }
+  },
+  {
+    "name": "AnimatedCube",
+    "path": "2.0/AnimatedCube",
+    "sha": "f6f15c27cb36915f24d7a642cde2dd82cd169fe9",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/AnimatedCube?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/AnimatedCube",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/f6f15c27cb36915f24d7a642cde2dd82cd169fe9",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/AnimatedCube?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/f6f15c27cb36915f24d7a642cde2dd82cd169fe9",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/AnimatedCube"
+    }
+  },
+  {
+    "name": "AnimatedMorphCube",
+    "path": "2.0/AnimatedMorphCube",
+    "sha": "70dc0caf902793a90b14c4b061b17bb51e3a42ab",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/AnimatedMorphCube?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/AnimatedMorphCube",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/70dc0caf902793a90b14c4b061b17bb51e3a42ab",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/AnimatedMorphCube?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/70dc0caf902793a90b14c4b061b17bb51e3a42ab",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/AnimatedMorphCube"
+    }
+  },
+  {
+    "name": "AnimatedMorphSphere",
+    "path": "2.0/AnimatedMorphSphere",
+    "sha": "cbcaab7e2bca5082107776b8da10c53e97aefdba",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/AnimatedMorphSphere?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/AnimatedMorphSphere",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/cbcaab7e2bca5082107776b8da10c53e97aefdba",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/AnimatedMorphSphere?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/cbcaab7e2bca5082107776b8da10c53e97aefdba",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/AnimatedMorphSphere"
+    }
+  },
+  {
+    "name": "AnimatedTriangle",
+    "path": "2.0/AnimatedTriangle",
+    "sha": "20252451b50b196e3a9d26424ffdc8ee5e4beee4",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/AnimatedTriangle?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/AnimatedTriangle",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/20252451b50b196e3a9d26424ffdc8ee5e4beee4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/AnimatedTriangle?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/20252451b50b196e3a9d26424ffdc8ee5e4beee4",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/AnimatedTriangle"
+    }
+  },
+  {
+    "name": "AntiqueCamera",
+    "path": "2.0/AntiqueCamera",
+    "sha": "d69a674f869112c92a2bc7b24daea012a3eb699b",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/AntiqueCamera?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/AntiqueCamera",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/d69a674f869112c92a2bc7b24daea012a3eb699b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/AntiqueCamera?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/d69a674f869112c92a2bc7b24daea012a3eb699b",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/AntiqueCamera"
+    }
+  },
+  {
+    "name": "AttenuationTest",
+    "path": "2.0/AttenuationTest",
+    "sha": "27392013f9338f00c0b423c6f9fb628d5da5aae3",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/AttenuationTest?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/AttenuationTest",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/27392013f9338f00c0b423c6f9fb628d5da5aae3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/AttenuationTest?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/27392013f9338f00c0b423c6f9fb628d5da5aae3",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/AttenuationTest"
+    }
+  },
+  {
+    "name": "Avocado",
+    "path": "2.0/Avocado",
+    "sha": "f8e0a03d601201e4b0a52fc3a5249fe8c6e275d0",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Avocado?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Avocado",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/f8e0a03d601201e4b0a52fc3a5249fe8c6e275d0",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Avocado?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/f8e0a03d601201e4b0a52fc3a5249fe8c6e275d0",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Avocado"
+    }
+  },
+  {
+    "name": "BarramundiFish",
+    "path": "2.0/BarramundiFish",
+    "sha": "26e9e6864d159e81606e8aeb27e9cc5518acaf29",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/BarramundiFish?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/BarramundiFish",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/26e9e6864d159e81606e8aeb27e9cc5518acaf29",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/BarramundiFish?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/26e9e6864d159e81606e8aeb27e9cc5518acaf29",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/BarramundiFish"
+    }
+  },
+  {
+    "name": "BoomBox",
+    "path": "2.0/BoomBox",
+    "sha": "f3dc2af2234aaea5603e9f15f9f74190e5d5332c",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/BoomBox?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/BoomBox",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/f3dc2af2234aaea5603e9f15f9f74190e5d5332c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/BoomBox?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/f3dc2af2234aaea5603e9f15f9f74190e5d5332c",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/BoomBox"
+    }
+  },
+  {
+    "name": "BoomBoxWithAxes",
+    "path": "2.0/BoomBoxWithAxes",
+    "sha": "9efd0dcc69968bc13b94be7389c76a1de8654520",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/BoomBoxWithAxes?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/BoomBoxWithAxes",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/9efd0dcc69968bc13b94be7389c76a1de8654520",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/BoomBoxWithAxes?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/9efd0dcc69968bc13b94be7389c76a1de8654520",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/BoomBoxWithAxes"
+    }
+  },
+  {
+    "name": "Box With Spaces",
+    "path": "2.0/Box With Spaces",
+    "sha": "cf6cb12c5dac6c861a1960a9901aa2c2c79fc96c",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Box%20With%20Spaces?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Box%20With%20Spaces",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/cf6cb12c5dac6c861a1960a9901aa2c2c79fc96c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Box%20With%20Spaces?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/cf6cb12c5dac6c861a1960a9901aa2c2c79fc96c",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Box%20With%20Spaces"
+    }
+  },
+  {
+    "name": "Box",
+    "path": "2.0/Box",
+    "sha": "e619103be66081984d78aec05d6e8418b9b40762",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Box?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Box",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/e619103be66081984d78aec05d6e8418b9b40762",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Box?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/e619103be66081984d78aec05d6e8418b9b40762",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Box"
+    }
+  },
+  {
+    "name": "BoxAnimated",
+    "path": "2.0/BoxAnimated",
+    "sha": "97c93ac5d6655b5f6a2ee60bec7e102e6955d4a5",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/BoxAnimated?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/BoxAnimated",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/97c93ac5d6655b5f6a2ee60bec7e102e6955d4a5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/BoxAnimated?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/97c93ac5d6655b5f6a2ee60bec7e102e6955d4a5",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/BoxAnimated"
+    }
+  },
+  {
+    "name": "BoxInterleaved",
+    "path": "2.0/BoxInterleaved",
+    "sha": "0388e2392c41f632f5190115bec4d4e12eedaa7f",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/BoxInterleaved?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/BoxInterleaved",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/0388e2392c41f632f5190115bec4d4e12eedaa7f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/BoxInterleaved?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/0388e2392c41f632f5190115bec4d4e12eedaa7f",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/BoxInterleaved"
+    }
+  },
+  {
+    "name": "BoxTextured",
+    "path": "2.0/BoxTextured",
+    "sha": "ea750b05ac57e63133995c2500ff98ab24eb9b21",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/BoxTextured?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/BoxTextured",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/ea750b05ac57e63133995c2500ff98ab24eb9b21",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/BoxTextured?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/ea750b05ac57e63133995c2500ff98ab24eb9b21",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/BoxTextured"
+    }
+  },
+  {
+    "name": "BoxTexturedNonPowerOfTwo",
+    "path": "2.0/BoxTexturedNonPowerOfTwo",
+    "sha": "5e2f8de73f6a6bb6b0a994833b92c4a567c7dfba",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/BoxTexturedNonPowerOfTwo?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/BoxTexturedNonPowerOfTwo",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/5e2f8de73f6a6bb6b0a994833b92c4a567c7dfba",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/BoxTexturedNonPowerOfTwo?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/5e2f8de73f6a6bb6b0a994833b92c4a567c7dfba",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/BoxTexturedNonPowerOfTwo"
+    }
+  },
+  {
+    "name": "BoxVertexColors",
+    "path": "2.0/BoxVertexColors",
+    "sha": "84f1d82180d512dccaf02aeb8f4ef171a7e600fb",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/BoxVertexColors?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/BoxVertexColors",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/84f1d82180d512dccaf02aeb8f4ef171a7e600fb",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/BoxVertexColors?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/84f1d82180d512dccaf02aeb8f4ef171a7e600fb",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/BoxVertexColors"
+    }
+  },
+  {
+    "name": "BrainStem",
+    "path": "2.0/BrainStem",
+    "sha": "717ea4aa13353ae3577ddaeda1c888aa5408a417",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/BrainStem?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/BrainStem",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/717ea4aa13353ae3577ddaeda1c888aa5408a417",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/BrainStem?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/717ea4aa13353ae3577ddaeda1c888aa5408a417",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/BrainStem"
+    }
+  },
+  {
+    "name": "Buggy",
+    "path": "2.0/Buggy",
+    "sha": "cf84e5fa98369ab8404325a279885bc40ecfa7ec",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Buggy?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Buggy",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/cf84e5fa98369ab8404325a279885bc40ecfa7ec",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Buggy?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/cf84e5fa98369ab8404325a279885bc40ecfa7ec",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Buggy"
+    }
+  },
+  {
+    "name": "Cameras",
+    "path": "2.0/Cameras",
+    "sha": "7f0005a1b120315ada2f40d79a22d073ecd161bd",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Cameras?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Cameras",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/7f0005a1b120315ada2f40d79a22d073ecd161bd",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Cameras?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/7f0005a1b120315ada2f40d79a22d073ecd161bd",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Cameras"
+    }
+  },
+  {
+    "name": "CarbonFibre",
+    "path": "2.0/CarbonFibre",
+    "sha": "a91f7420bbf2022988532b5fcc5ba28840d5c4be",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/CarbonFibre?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/CarbonFibre",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/a91f7420bbf2022988532b5fcc5ba28840d5c4be",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/CarbonFibre?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/a91f7420bbf2022988532b5fcc5ba28840d5c4be",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/CarbonFibre"
+    }
+  },
+  {
+    "name": "CesiumMan",
+    "path": "2.0/CesiumMan",
+    "sha": "87f2f0371aece3a4eb6033a27dce98ff80442fbd",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/CesiumMan?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/CesiumMan",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/87f2f0371aece3a4eb6033a27dce98ff80442fbd",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/CesiumMan?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/87f2f0371aece3a4eb6033a27dce98ff80442fbd",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/CesiumMan"
+    }
+  },
+  {
+    "name": "CesiumMilkTruck",
+    "path": "2.0/CesiumMilkTruck",
+    "sha": "c01c39a50dd51b6671c9f68c0cddd6f56c302f24",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/CesiumMilkTruck?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/CesiumMilkTruck",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/c01c39a50dd51b6671c9f68c0cddd6f56c302f24",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/CesiumMilkTruck?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/c01c39a50dd51b6671c9f68c0cddd6f56c302f24",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/CesiumMilkTruck"
+    }
+  },
+  {
+    "name": "ClearCoatCarPaint",
+    "path": "2.0/ClearCoatCarPaint",
+    "sha": "c1904552dc5bb656cb8c355f239819a9c2845d40",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/ClearCoatCarPaint?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/ClearCoatCarPaint",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/c1904552dc5bb656cb8c355f239819a9c2845d40",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/ClearCoatCarPaint?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/c1904552dc5bb656cb8c355f239819a9c2845d40",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/ClearCoatCarPaint"
+    }
+  },
+  {
+    "name": "ClearCoatTest",
+    "path": "2.0/ClearCoatTest",
+    "sha": "05479ef5c7a133f69df46d853474dd5950a6fec5",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/ClearCoatTest?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/ClearCoatTest",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/05479ef5c7a133f69df46d853474dd5950a6fec5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/ClearCoatTest?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/05479ef5c7a133f69df46d853474dd5950a6fec5",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/ClearCoatTest"
+    }
+  },
+  {
+    "name": "ClearcoatRing",
+    "path": "2.0/ClearcoatRing",
+    "sha": "6b76dd9c4b0c2d1fd3e61d29ddb0e73813d58cfc",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/ClearcoatRing?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/ClearcoatRing",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/6b76dd9c4b0c2d1fd3e61d29ddb0e73813d58cfc",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/ClearcoatRing?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/6b76dd9c4b0c2d1fd3e61d29ddb0e73813d58cfc",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/ClearcoatRing"
+    }
+  },
+  {
+    "name": "ClearcoatSphere",
+    "path": "2.0/ClearcoatSphere",
+    "sha": "f75b887a80aed0694b23c9aaabb523b6b3a1b744",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/ClearcoatSphere?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/ClearcoatSphere",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/f75b887a80aed0694b23c9aaabb523b6b3a1b744",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/ClearcoatSphere?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/f75b887a80aed0694b23c9aaabb523b6b3a1b744",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/ClearcoatSphere"
+    }
+  },
+  {
+    "name": "ClearcoatWicker",
+    "path": "2.0/ClearcoatWicker",
+    "sha": "76036ceb0b42973633d7662191b96137de675cc8",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/ClearcoatWicker?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/ClearcoatWicker",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/76036ceb0b42973633d7662191b96137de675cc8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/ClearcoatWicker?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/76036ceb0b42973633d7662191b96137de675cc8",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/ClearcoatWicker"
+    }
+  },
+  {
+    "name": "Corset",
+    "path": "2.0/Corset",
+    "sha": "4ac7967e96ee56fdf09b2610354d14895d7500dd",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Corset?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Corset",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/4ac7967e96ee56fdf09b2610354d14895d7500dd",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Corset?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/4ac7967e96ee56fdf09b2610354d14895d7500dd",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Corset"
+    }
+  },
+  {
+    "name": "Cube",
+    "path": "2.0/Cube",
+    "sha": "60099132f2fcbbf0f44685abcad5649455f3b503",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Cube?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Cube",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/60099132f2fcbbf0f44685abcad5649455f3b503",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Cube?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/60099132f2fcbbf0f44685abcad5649455f3b503",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Cube"
+    }
+  },
+  {
+    "name": "DamagedHelmet",
+    "path": "2.0/DamagedHelmet",
+    "sha": "f22411029ca5d82f7f9d7da3c07dcef02d847870",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/DamagedHelmet?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/DamagedHelmet",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/f22411029ca5d82f7f9d7da3c07dcef02d847870",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/DamagedHelmet?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/f22411029ca5d82f7f9d7da3c07dcef02d847870",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/DamagedHelmet"
+    }
+  },
+  {
+    "name": "DirectionalLight",
+    "path": "2.0/DirectionalLight",
+    "sha": "c8b60c9574c08d027b038d058b218e626107f5f2",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/DirectionalLight?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/DirectionalLight",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/c8b60c9574c08d027b038d058b218e626107f5f2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/DirectionalLight?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/c8b60c9574c08d027b038d058b218e626107f5f2",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/DirectionalLight"
+    }
+  },
+  {
+    "name": "DragonAttenuation",
+    "path": "2.0/DragonAttenuation",
+    "sha": "6871cfa38c5caa09c102ad0a1e0fb4e5f5f4dd0b",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/DragonAttenuation?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/DragonAttenuation",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/6871cfa38c5caa09c102ad0a1e0fb4e5f5f4dd0b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/DragonAttenuation?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/6871cfa38c5caa09c102ad0a1e0fb4e5f5f4dd0b",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/DragonAttenuation"
+    }
+  },
+  {
+    "name": "Duck",
+    "path": "2.0/Duck",
+    "sha": "4e3bfe3c3a25426aca5bfdf1a3486cbd43ce59a9",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Duck?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Duck",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/4e3bfe3c3a25426aca5bfdf1a3486cbd43ce59a9",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Duck?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/4e3bfe3c3a25426aca5bfdf1a3486cbd43ce59a9",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Duck"
+    }
+  },
+  {
+    "name": "EmissiveStrengthTest",
+    "path": "2.0/EmissiveStrengthTest",
+    "sha": "5507311da0e6c90ce5d88daf1aa5b8de96a59f6e",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/EmissiveStrengthTest?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/EmissiveStrengthTest",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/5507311da0e6c90ce5d88daf1aa5b8de96a59f6e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/EmissiveStrengthTest?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/5507311da0e6c90ce5d88daf1aa5b8de96a59f6e",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/EmissiveStrengthTest"
+    }
+  },
+  {
+    "name": "EnvironmentTest",
+    "path": "2.0/EnvironmentTest",
+    "sha": "30da7baad91b51e86155cc90583cde541fd648c7",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/EnvironmentTest?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/EnvironmentTest",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/30da7baad91b51e86155cc90583cde541fd648c7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/EnvironmentTest?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/30da7baad91b51e86155cc90583cde541fd648c7",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/EnvironmentTest"
+    }
+  },
+  {
+    "name": "FlightHelmet",
+    "path": "2.0/FlightHelmet",
+    "sha": "642c9c6f643786c113dc86260ba33a85611e053d",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/FlightHelmet?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/FlightHelmet",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/642c9c6f643786c113dc86260ba33a85611e053d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/FlightHelmet?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/642c9c6f643786c113dc86260ba33a85611e053d",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/FlightHelmet"
+    }
+  },
+  {
+    "name": "Fox",
+    "path": "2.0/Fox",
+    "sha": "2241fd20208be0ce9f74272551241d17d68c4dbb",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Fox?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Fox",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/2241fd20208be0ce9f74272551241d17d68c4dbb",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Fox?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/2241fd20208be0ce9f74272551241d17d68c4dbb",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Fox"
+    }
+  },
+  {
+    "name": "GearboxAssy",
+    "path": "2.0/GearboxAssy",
+    "sha": "95cde9d53f9089fe4ed4570ec8e5015eac4b1160",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/GearboxAssy?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/GearboxAssy",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/95cde9d53f9089fe4ed4570ec8e5015eac4b1160",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/GearboxAssy?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/95cde9d53f9089fe4ed4570ec8e5015eac4b1160",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/GearboxAssy"
+    }
+  },
+  {
+    "name": "GlamVelvetSofa",
+    "path": "2.0/GlamVelvetSofa",
+    "sha": "470ce29dcec8c11701a584eba8bfd15569e044fc",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/GlamVelvetSofa?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/GlamVelvetSofa",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/470ce29dcec8c11701a584eba8bfd15569e044fc",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/GlamVelvetSofa?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/470ce29dcec8c11701a584eba8bfd15569e044fc",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/GlamVelvetSofa"
+    }
+  },
+  {
+    "name": "InterpolationTest",
+    "path": "2.0/InterpolationTest",
+    "sha": "15edd4d3b40e163d9de690bf353a08e77867f606",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/InterpolationTest?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/InterpolationTest",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/15edd4d3b40e163d9de690bf353a08e77867f606",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/InterpolationTest?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/15edd4d3b40e163d9de690bf353a08e77867f606",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/InterpolationTest"
+    }
+  },
+  {
+    "name": "IridescenceDielectricSpheres",
+    "path": "2.0/IridescenceDielectricSpheres",
+    "sha": "5a91dea83e9b97fcdf4c14b5b996ff47af50d542",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/IridescenceDielectricSpheres?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/IridescenceDielectricSpheres",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/5a91dea83e9b97fcdf4c14b5b996ff47af50d542",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/IridescenceDielectricSpheres?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/5a91dea83e9b97fcdf4c14b5b996ff47af50d542",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/IridescenceDielectricSpheres"
+    }
+  },
+  {
+    "name": "IridescenceLamp",
+    "path": "2.0/IridescenceLamp",
+    "sha": "da6a05ab4f5a9ccb61ebcd71687b2f689e291ed2",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/IridescenceLamp?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/IridescenceLamp",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/da6a05ab4f5a9ccb61ebcd71687b2f689e291ed2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/IridescenceLamp?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/da6a05ab4f5a9ccb61ebcd71687b2f689e291ed2",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/IridescenceLamp"
+    }
+  },
+  {
+    "name": "IridescenceMetallicSpheres",
+    "path": "2.0/IridescenceMetallicSpheres",
+    "sha": "432f34553eb5bd7fbbc81673259f1a26ec2811f2",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/IridescenceMetallicSpheres?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/IridescenceMetallicSpheres",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/432f34553eb5bd7fbbc81673259f1a26ec2811f2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/IridescenceMetallicSpheres?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/432f34553eb5bd7fbbc81673259f1a26ec2811f2",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/IridescenceMetallicSpheres"
+    }
+  },
+  {
+    "name": "IridescenceSuzanne",
+    "path": "2.0/IridescenceSuzanne",
+    "sha": "69b2ddd30b5caba3bc58dbb78adff1482523f393",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/IridescenceSuzanne?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/IridescenceSuzanne",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/69b2ddd30b5caba3bc58dbb78adff1482523f393",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/IridescenceSuzanne?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/69b2ddd30b5caba3bc58dbb78adff1482523f393",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/IridescenceSuzanne"
+    }
+  },
+  {
+    "name": "IridescentDishWithOlives",
+    "path": "2.0/IridescentDishWithOlives",
+    "sha": "cd76840633cbc8fa1cd057db593c785d12573d16",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/IridescentDishWithOlives?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/IridescentDishWithOlives",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/cd76840633cbc8fa1cd057db593c785d12573d16",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/IridescentDishWithOlives?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/cd76840633cbc8fa1cd057db593c785d12573d16",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/IridescentDishWithOlives"
+    }
+  },
+  {
+    "name": "Lantern",
+    "path": "2.0/Lantern",
+    "sha": "2ccdc5f87ba3199edaa0134833b7847bd78a9e24",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Lantern?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Lantern",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/2ccdc5f87ba3199edaa0134833b7847bd78a9e24",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Lantern?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/2ccdc5f87ba3199edaa0134833b7847bd78a9e24",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Lantern"
+    }
+  },
+  {
+    "name": "LightsPunctualLamp",
+    "path": "2.0/LightsPunctualLamp",
+    "sha": "74b6e0c3923c40214657f3e3c92cde26748f0e1f",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/LightsPunctualLamp?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/LightsPunctualLamp",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/74b6e0c3923c40214657f3e3c92cde26748f0e1f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/LightsPunctualLamp?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/74b6e0c3923c40214657f3e3c92cde26748f0e1f",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/LightsPunctualLamp"
+    }
+  },
+  {
+    "name": "MaterialsVariantsShoe",
+    "path": "2.0/MaterialsVariantsShoe",
+    "sha": "967debfe8b680b06d0a814160b2cd2976fa8e15c",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/MaterialsVariantsShoe?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/MaterialsVariantsShoe",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/967debfe8b680b06d0a814160b2cd2976fa8e15c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/MaterialsVariantsShoe?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/967debfe8b680b06d0a814160b2cd2976fa8e15c",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/MaterialsVariantsShoe"
+    }
+  },
+  {
+    "name": "MeshPrimitiveModes",
+    "path": "2.0/MeshPrimitiveModes",
+    "sha": "fb05cf1a8cb06aee19a4e154e927dfc89caca247",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/MeshPrimitiveModes?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/MeshPrimitiveModes",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/fb05cf1a8cb06aee19a4e154e927dfc89caca247",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/MeshPrimitiveModes?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/fb05cf1a8cb06aee19a4e154e927dfc89caca247",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/MeshPrimitiveModes"
+    }
+  },
+  {
+    "name": "MetalRoughSpheres",
+    "path": "2.0/MetalRoughSpheres",
+    "sha": "bc2347ac3d0da28caaf284fa246e2662722f3189",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/MetalRoughSpheres?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/MetalRoughSpheres",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/bc2347ac3d0da28caaf284fa246e2662722f3189",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/MetalRoughSpheres?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/bc2347ac3d0da28caaf284fa246e2662722f3189",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/MetalRoughSpheres"
+    }
+  },
+  {
+    "name": "MetalRoughSpheresNoTextures",
+    "path": "2.0/MetalRoughSpheresNoTextures",
+    "sha": "4e811811c7ee34ad34f6693afed3e0be084737b7",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/MetalRoughSpheresNoTextures?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/MetalRoughSpheresNoTextures",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/4e811811c7ee34ad34f6693afed3e0be084737b7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/MetalRoughSpheresNoTextures?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/4e811811c7ee34ad34f6693afed3e0be084737b7",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/MetalRoughSpheresNoTextures"
+    }
+  },
+  {
+    "name": "MorphPrimitivesTest",
+    "path": "2.0/MorphPrimitivesTest",
+    "sha": "9ad8a4683ca13a473a1b6f5da0f2f376d0d615ed",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/MorphPrimitivesTest?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/MorphPrimitivesTest",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/9ad8a4683ca13a473a1b6f5da0f2f376d0d615ed",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/MorphPrimitivesTest?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/9ad8a4683ca13a473a1b6f5da0f2f376d0d615ed",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/MorphPrimitivesTest"
+    }
+  },
+  {
+    "name": "MorphStressTest",
+    "path": "2.0/MorphStressTest",
+    "sha": "84ea6d1fd8c5d7cfdb228da548c2ffd7f74cfe05",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/MorphStressTest?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/MorphStressTest",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/84ea6d1fd8c5d7cfdb228da548c2ffd7f74cfe05",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/MorphStressTest?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/84ea6d1fd8c5d7cfdb228da548c2ffd7f74cfe05",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/MorphStressTest"
+    }
+  },
+  {
+    "name": "MosquitoInAmber",
+    "path": "2.0/MosquitoInAmber",
+    "sha": "49ad2df7cc0c4a55bdc15c9e36c3589c5c0e5170",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/MosquitoInAmber?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/MosquitoInAmber",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/49ad2df7cc0c4a55bdc15c9e36c3589c5c0e5170",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/MosquitoInAmber?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/49ad2df7cc0c4a55bdc15c9e36c3589c5c0e5170",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/MosquitoInAmber"
+    }
+  },
+  {
+    "name": "MultiUVTest",
+    "path": "2.0/MultiUVTest",
+    "sha": "6ef0824c20a1b1e371d8931698af9ae6f380edb2",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/MultiUVTest?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/MultiUVTest",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/6ef0824c20a1b1e371d8931698af9ae6f380edb2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/MultiUVTest?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/6ef0824c20a1b1e371d8931698af9ae6f380edb2",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/MultiUVTest"
+    }
+  },
+  {
+    "name": "MultipleScenes",
+    "path": "2.0/MultipleScenes",
+    "sha": "bcbff7d6ab686876c58afc4ed0117a86a23321f9",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/MultipleScenes?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/MultipleScenes",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/bcbff7d6ab686876c58afc4ed0117a86a23321f9",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/MultipleScenes?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/bcbff7d6ab686876c58afc4ed0117a86a23321f9",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/MultipleScenes"
+    }
+  },
+  {
+    "name": "NegativeScaleTest",
+    "path": "2.0/NegativeScaleTest",
+    "sha": "6a9c6b9ac9efd1e72aa48973ff05677e4b5aa529",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/NegativeScaleTest?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/NegativeScaleTest",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/6a9c6b9ac9efd1e72aa48973ff05677e4b5aa529",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/NegativeScaleTest?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/6a9c6b9ac9efd1e72aa48973ff05677e4b5aa529",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/NegativeScaleTest"
+    }
+  },
+  {
+    "name": "NormalTangentMirrorTest",
+    "path": "2.0/NormalTangentMirrorTest",
+    "sha": "fc73f3200f1ed3831a3751e1453a9452595cf851",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/NormalTangentMirrorTest?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/NormalTangentMirrorTest",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/fc73f3200f1ed3831a3751e1453a9452595cf851",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/NormalTangentMirrorTest?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/fc73f3200f1ed3831a3751e1453a9452595cf851",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/NormalTangentMirrorTest"
+    }
+  },
+  {
+    "name": "NormalTangentTest",
+    "path": "2.0/NormalTangentTest",
+    "sha": "6a498deb7d63b426514c2faa8207a5bc79969582",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/NormalTangentTest?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/NormalTangentTest",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/6a498deb7d63b426514c2faa8207a5bc79969582",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/NormalTangentTest?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/6a498deb7d63b426514c2faa8207a5bc79969582",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/NormalTangentTest"
+    }
+  },
+  {
+    "name": "OrientationTest",
+    "path": "2.0/OrientationTest",
+    "sha": "9fbf6cf96a7c7d10bb6bd8a800a060eba85fc31f",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/OrientationTest?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/OrientationTest",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/9fbf6cf96a7c7d10bb6bd8a800a060eba85fc31f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/OrientationTest?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/9fbf6cf96a7c7d10bb6bd8a800a060eba85fc31f",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/OrientationTest"
+    }
+  },
+  {
+    "name": "PrimitiveModeNormalsTest",
+    "path": "2.0/PrimitiveModeNormalsTest",
+    "sha": "83f2a976bee93185c399c209878091fda24ea9c8",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/PrimitiveModeNormalsTest?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/PrimitiveModeNormalsTest",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/83f2a976bee93185c399c209878091fda24ea9c8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/PrimitiveModeNormalsTest?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/83f2a976bee93185c399c209878091fda24ea9c8",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/PrimitiveModeNormalsTest"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "2.0/README.md",
+    "sha": "4d06a98f625bfa7e0319735b567585fb7dfd79a2",
+    "size": 20946,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/README.md?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/blob/main/2.0/README.md",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/blobs/4d06a98f625bfa7e0319735b567585fb7dfd79a2",
+    "download_url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/main/2.0/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/README.md?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/blobs/4d06a98f625bfa7e0319735b567585fb7dfd79a2",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/blob/main/2.0/README.md"
+    }
+  },
+  {
+    "name": "ReciprocatingSaw",
+    "path": "2.0/ReciprocatingSaw",
+    "sha": "7846b4a37246fdcd980b36397d122f2f679710cb",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/ReciprocatingSaw?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/ReciprocatingSaw",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/7846b4a37246fdcd980b36397d122f2f679710cb",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/ReciprocatingSaw?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/7846b4a37246fdcd980b36397d122f2f679710cb",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/ReciprocatingSaw"
+    }
+  },
+  {
+    "name": "RecursiveSkeletons",
+    "path": "2.0/RecursiveSkeletons",
+    "sha": "8c6337565978136de66ec63271422a2451884fb6",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/RecursiveSkeletons?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/RecursiveSkeletons",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/8c6337565978136de66ec63271422a2451884fb6",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/RecursiveSkeletons?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/8c6337565978136de66ec63271422a2451884fb6",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/RecursiveSkeletons"
+    }
+  },
+  {
+    "name": "RiggedFigure",
+    "path": "2.0/RiggedFigure",
+    "sha": "d6b533beda0db42977edf2b195d46862cc307047",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/RiggedFigure?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/RiggedFigure",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/d6b533beda0db42977edf2b195d46862cc307047",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/RiggedFigure?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/d6b533beda0db42977edf2b195d46862cc307047",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/RiggedFigure"
+    }
+  },
+  {
+    "name": "RiggedSimple",
+    "path": "2.0/RiggedSimple",
+    "sha": "eb377b0db744c2c38c79df2257964267324b7c6b",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/RiggedSimple?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/RiggedSimple",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/eb377b0db744c2c38c79df2257964267324b7c6b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/RiggedSimple?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/eb377b0db744c2c38c79df2257964267324b7c6b",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/RiggedSimple"
+    }
+  },
+  {
+    "name": "SciFiHelmet",
+    "path": "2.0/SciFiHelmet",
+    "sha": "bcd811e2ef7ffe5f200661032981c1ffad95352c",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/SciFiHelmet?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/SciFiHelmet",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/bcd811e2ef7ffe5f200661032981c1ffad95352c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/SciFiHelmet?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/bcd811e2ef7ffe5f200661032981c1ffad95352c",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/SciFiHelmet"
+    }
+  },
+  {
+    "name": "SheenChair",
+    "path": "2.0/SheenChair",
+    "sha": "5f801f63ffba126533a25ec46121912a38f041ba",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/SheenChair?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/SheenChair",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/5f801f63ffba126533a25ec46121912a38f041ba",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/SheenChair?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/5f801f63ffba126533a25ec46121912a38f041ba",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/SheenChair"
+    }
+  },
+  {
+    "name": "SheenCloth",
+    "path": "2.0/SheenCloth",
+    "sha": "1c35a0784fb788ba6124827e5fc8d6db8b5dbb39",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/SheenCloth?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/SheenCloth",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/1c35a0784fb788ba6124827e5fc8d6db8b5dbb39",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/SheenCloth?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/1c35a0784fb788ba6124827e5fc8d6db8b5dbb39",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/SheenCloth"
+    }
+  },
+  {
+    "name": "SheenDamask",
+    "path": "2.0/SheenDamask",
+    "sha": "ee114f5027bb62de33857e553a3300201bbb0cf7",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/SheenDamask?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/SheenDamask",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/ee114f5027bb62de33857e553a3300201bbb0cf7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/SheenDamask?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/ee114f5027bb62de33857e553a3300201bbb0cf7",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/SheenDamask"
+    }
+  },
+  {
+    "name": "SheenHighHeel",
+    "path": "2.0/SheenHighHeel",
+    "sha": "6e9e98f4891ccb989432daa1c648a77fdb44448e",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/SheenHighHeel?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/SheenHighHeel",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/6e9e98f4891ccb989432daa1c648a77fdb44448e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/SheenHighHeel?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/6e9e98f4891ccb989432daa1c648a77fdb44448e",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/SheenHighHeel"
+    }
+  },
+  {
+    "name": "SimpleInstancing",
+    "path": "2.0/SimpleInstancing",
+    "sha": "6abd0f76dfc93f8e79bc987ec51bd9308bb76633",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/SimpleInstancing?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/SimpleInstancing",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/6abd0f76dfc93f8e79bc987ec51bd9308bb76633",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/SimpleInstancing?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/6abd0f76dfc93f8e79bc987ec51bd9308bb76633",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/SimpleInstancing"
+    }
+  },
+  {
+    "name": "SimpleMeshes",
+    "path": "2.0/SimpleMeshes",
+    "sha": "fa3badc9d6b577578fb5d7382c6a4d971b291bdb",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/SimpleMeshes?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/SimpleMeshes",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/fa3badc9d6b577578fb5d7382c6a4d971b291bdb",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/SimpleMeshes?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/fa3badc9d6b577578fb5d7382c6a4d971b291bdb",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/SimpleMeshes"
+    }
+  },
+  {
+    "name": "SimpleMorph",
+    "path": "2.0/SimpleMorph",
+    "sha": "a935c629bebcfd6dc7f5e0cc3060f0ad568af049",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/SimpleMorph?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/SimpleMorph",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/a935c629bebcfd6dc7f5e0cc3060f0ad568af049",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/SimpleMorph?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/a935c629bebcfd6dc7f5e0cc3060f0ad568af049",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/SimpleMorph"
+    }
+  },
+  {
+    "name": "SimpleSkin",
+    "path": "2.0/SimpleSkin",
+    "sha": "86e4deadc31c1d7df983a8211537c07599c5c259",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/SimpleSkin?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/SimpleSkin",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/86e4deadc31c1d7df983a8211537c07599c5c259",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/SimpleSkin?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/86e4deadc31c1d7df983a8211537c07599c5c259",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/SimpleSkin"
+    }
+  },
+  {
+    "name": "SimpleSparseAccessor",
+    "path": "2.0/SimpleSparseAccessor",
+    "sha": "cf55ad891988b793a224b220269124c4edb15cbb",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/SimpleSparseAccessor?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/SimpleSparseAccessor",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/cf55ad891988b793a224b220269124c4edb15cbb",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/SimpleSparseAccessor?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/cf55ad891988b793a224b220269124c4edb15cbb",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/SimpleSparseAccessor"
+    }
+  },
+  {
+    "name": "SpecGlossVsMetalRough",
+    "path": "2.0/SpecGlossVsMetalRough",
+    "sha": "801302719c3866f7111879fa14ff8ed92358ccb9",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/SpecGlossVsMetalRough?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/SpecGlossVsMetalRough",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/801302719c3866f7111879fa14ff8ed92358ccb9",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/SpecGlossVsMetalRough?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/801302719c3866f7111879fa14ff8ed92358ccb9",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/SpecGlossVsMetalRough"
+    }
+  },
+  {
+    "name": "SpecularTest",
+    "path": "2.0/SpecularTest",
+    "sha": "9119718ed45d44471de99954486193ec77f3f6e1",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/SpecularTest?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/SpecularTest",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/9119718ed45d44471de99954486193ec77f3f6e1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/SpecularTest?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/9119718ed45d44471de99954486193ec77f3f6e1",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/SpecularTest"
+    }
+  },
+  {
+    "name": "Sponza",
+    "path": "2.0/Sponza",
+    "sha": "5416df71751217a0aa3f319895517a385889047d",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Sponza?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Sponza",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/5416df71751217a0aa3f319895517a385889047d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Sponza?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/5416df71751217a0aa3f319895517a385889047d",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Sponza"
+    }
+  },
+  {
+    "name": "StainedGlassLamp",
+    "path": "2.0/StainedGlassLamp",
+    "sha": "9ea4a6c3f5727b6428fb5d4c1a13df1e54a31a6f",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/StainedGlassLamp?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/StainedGlassLamp",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/9ea4a6c3f5727b6428fb5d4c1a13df1e54a31a6f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/StainedGlassLamp?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/9ea4a6c3f5727b6428fb5d4c1a13df1e54a31a6f",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/StainedGlassLamp"
+    }
+  },
+  {
+    "name": "Suzanne",
+    "path": "2.0/Suzanne",
+    "sha": "6d78a755806342fffd5ebd5a19dcecd30637e13b",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Suzanne?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Suzanne",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/6d78a755806342fffd5ebd5a19dcecd30637e13b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Suzanne?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/6d78a755806342fffd5ebd5a19dcecd30637e13b",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Suzanne"
+    }
+  },
+  {
+    "name": "SuzanneMorphSparse",
+    "path": "2.0/SuzanneMorphSparse",
+    "sha": "6a1062ffb49fae17561aa6185e03a35cf9408c7e",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/SuzanneMorphSparse?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/SuzanneMorphSparse",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/6a1062ffb49fae17561aa6185e03a35cf9408c7e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/SuzanneMorphSparse?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/6a1062ffb49fae17561aa6185e03a35cf9408c7e",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/SuzanneMorphSparse"
+    }
+  },
+  {
+    "name": "TextureCoordinateTest",
+    "path": "2.0/TextureCoordinateTest",
+    "sha": "407765b96e057901bfcb12afef64390517e5a4a8",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/TextureCoordinateTest?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/TextureCoordinateTest",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/407765b96e057901bfcb12afef64390517e5a4a8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/TextureCoordinateTest?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/407765b96e057901bfcb12afef64390517e5a4a8",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/TextureCoordinateTest"
+    }
+  },
+  {
+    "name": "TextureEncodingTest",
+    "path": "2.0/TextureEncodingTest",
+    "sha": "0649821d3659de1a7e8272d110bafb60bd44a960",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/TextureEncodingTest?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/TextureEncodingTest",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/0649821d3659de1a7e8272d110bafb60bd44a960",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/TextureEncodingTest?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/0649821d3659de1a7e8272d110bafb60bd44a960",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/TextureEncodingTest"
+    }
+  },
+  {
+    "name": "TextureLinearInterpolationTest",
+    "path": "2.0/TextureLinearInterpolationTest",
+    "sha": "dea4dd0a0ce110fd9f6b00575d7aac6f819abdfd",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/TextureLinearInterpolationTest?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/TextureLinearInterpolationTest",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/dea4dd0a0ce110fd9f6b00575d7aac6f819abdfd",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/TextureLinearInterpolationTest?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/dea4dd0a0ce110fd9f6b00575d7aac6f819abdfd",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/TextureLinearInterpolationTest"
+    }
+  },
+  {
+    "name": "TextureSettingsTest",
+    "path": "2.0/TextureSettingsTest",
+    "sha": "9f4362b4f52e212dd16770e3ed79e2d7e871a139",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/TextureSettingsTest?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/TextureSettingsTest",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/9f4362b4f52e212dd16770e3ed79e2d7e871a139",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/TextureSettingsTest?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/9f4362b4f52e212dd16770e3ed79e2d7e871a139",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/TextureSettingsTest"
+    }
+  },
+  {
+    "name": "TextureTransformMultiTest",
+    "path": "2.0/TextureTransformMultiTest",
+    "sha": "c95f4705ef8070dfb1fcd467d0f97fe750216f5f",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/TextureTransformMultiTest?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/TextureTransformMultiTest",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/c95f4705ef8070dfb1fcd467d0f97fe750216f5f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/TextureTransformMultiTest?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/c95f4705ef8070dfb1fcd467d0f97fe750216f5f",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/TextureTransformMultiTest"
+    }
+  },
+  {
+    "name": "TextureTransformTest",
+    "path": "2.0/TextureTransformTest",
+    "sha": "d02e47f1d8419fbe6d48cdff6f6718cd23480e66",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/TextureTransformTest?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/TextureTransformTest",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/d02e47f1d8419fbe6d48cdff6f6718cd23480e66",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/TextureTransformTest?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/d02e47f1d8419fbe6d48cdff6f6718cd23480e66",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/TextureTransformTest"
+    }
+  },
+  {
+    "name": "ToyCar",
+    "path": "2.0/ToyCar",
+    "sha": "a022a5cf75255ca0f80bc49e310df934cd19591b",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/ToyCar?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/ToyCar",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/a022a5cf75255ca0f80bc49e310df934cd19591b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/ToyCar?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/a022a5cf75255ca0f80bc49e310df934cd19591b",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/ToyCar"
+    }
+  },
+  {
+    "name": "TransmissionRoughnessTest",
+    "path": "2.0/TransmissionRoughnessTest",
+    "sha": "17e70d180dd2bb52818dbbccfdfdcf54f9462a89",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/TransmissionRoughnessTest?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/TransmissionRoughnessTest",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/17e70d180dd2bb52818dbbccfdfdcf54f9462a89",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/TransmissionRoughnessTest?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/17e70d180dd2bb52818dbbccfdfdcf54f9462a89",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/TransmissionRoughnessTest"
+    }
+  },
+  {
+    "name": "TransmissionSuzanne",
+    "path": "2.0/TransmissionSuzanne",
+    "sha": "04d9f953f6cac3c6f2b488223bfcb7d0c5846f87",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/TransmissionSuzanne?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/TransmissionSuzanne",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/04d9f953f6cac3c6f2b488223bfcb7d0c5846f87",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/TransmissionSuzanne?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/04d9f953f6cac3c6f2b488223bfcb7d0c5846f87",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/TransmissionSuzanne"
+    }
+  },
+  {
+    "name": "TransmissionTest",
+    "path": "2.0/TransmissionTest",
+    "sha": "f0336b0003c916409af7fade771840713e72d1e0",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/TransmissionTest?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/TransmissionTest",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/f0336b0003c916409af7fade771840713e72d1e0",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/TransmissionTest?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/f0336b0003c916409af7fade771840713e72d1e0",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/TransmissionTest"
+    }
+  },
+  {
+    "name": "Triangle",
+    "path": "2.0/Triangle",
+    "sha": "daef302024edcabb8c35e6d25ec7c04b8a00299f",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Triangle?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Triangle",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/daef302024edcabb8c35e6d25ec7c04b8a00299f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Triangle?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/daef302024edcabb8c35e6d25ec7c04b8a00299f",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Triangle"
+    }
+  },
+  {
+    "name": "TriangleWithoutIndices",
+    "path": "2.0/TriangleWithoutIndices",
+    "sha": "d87e80912e74d2f6815e86f8cc88fc4d15cdf5a6",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/TriangleWithoutIndices?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/TriangleWithoutIndices",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/d87e80912e74d2f6815e86f8cc88fc4d15cdf5a6",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/TriangleWithoutIndices?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/d87e80912e74d2f6815e86f8cc88fc4d15cdf5a6",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/TriangleWithoutIndices"
+    }
+  },
+  {
+    "name": "TwoSidedPlane",
+    "path": "2.0/TwoSidedPlane",
+    "sha": "43acf33ca7924c8d7a6784d73148072caa52bb25",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/TwoSidedPlane?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/TwoSidedPlane",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/43acf33ca7924c8d7a6784d73148072caa52bb25",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/TwoSidedPlane?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/43acf33ca7924c8d7a6784d73148072caa52bb25",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/TwoSidedPlane"
+    }
+  },
+  {
+    "name": "Unicode❤♻Test",
+    "path": "2.0/Unicode❤♻Test",
+    "sha": "0f26acd8706e197c15f2ee3ee5931f3023071d7e",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Unicode%E2%9D%A4%E2%99%BBTest?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Unicode%E2%9D%A4%E2%99%BBTest",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/0f26acd8706e197c15f2ee3ee5931f3023071d7e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/Unicode%E2%9D%A4%E2%99%BBTest?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/0f26acd8706e197c15f2ee3ee5931f3023071d7e",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Unicode%E2%9D%A4%E2%99%BBTest"
+    }
+  },
+  {
+    "name": "UnlitTest",
+    "path": "2.0/UnlitTest",
+    "sha": "5a58a8b4bc8aa5d1de45867f2ac7090f13865e0e",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/UnlitTest?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/UnlitTest",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/5a58a8b4bc8aa5d1de45867f2ac7090f13865e0e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/UnlitTest?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/5a58a8b4bc8aa5d1de45867f2ac7090f13865e0e",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/UnlitTest"
+    }
+  },
+  {
+    "name": "VC",
+    "path": "2.0/VC",
+    "sha": "2755326d106577799e6c8f6a87277c471a07235d",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/VC?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/VC",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/2755326d106577799e6c8f6a87277c471a07235d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/VC?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/2755326d106577799e6c8f6a87277c471a07235d",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/VC"
+    }
+  },
+  {
+    "name": "VertexColorTest",
+    "path": "2.0/VertexColorTest",
+    "sha": "dbd50dcf54856abee6019b5154f8cd7d6c28d94d",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/VertexColorTest?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/VertexColorTest",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/dbd50dcf54856abee6019b5154f8cd7d6c28d94d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/VertexColorTest?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/dbd50dcf54856abee6019b5154f8cd7d6c28d94d",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/VertexColorTest"
+    }
+  },
+  {
+    "name": "WaterBottle",
+    "path": "2.0/WaterBottle",
+    "sha": "5a3c190f0d762aeada50e9823ad621d05c982e42",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/WaterBottle?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/WaterBottle",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/5a3c190f0d762aeada50e9823ad621d05c982e42",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/WaterBottle?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/5a3c190f0d762aeada50e9823ad621d05c982e42",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/WaterBottle"
+    }
+  },
+  {
+    "name": "XmpMetadataRoundedCube",
+    "path": "2.0/XmpMetadataRoundedCube",
+    "sha": "61658888947b92f11dcd1705d3f0fec0db80e9b8",
+    "size": 0,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/XmpMetadataRoundedCube?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/XmpMetadataRoundedCube",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/61658888947b92f11dcd1705d3f0fec0db80e9b8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/XmpMetadataRoundedCube?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/trees/61658888947b92f11dcd1705d3f0fec0db80e9b8",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/XmpMetadataRoundedCube"
+    }
+  },
+  {
+    "name": "glTF_RGB_June16.svg",
+    "path": "2.0/glTF_RGB_June16.svg",
+    "sha": "cda5f6e5d2508cf7d88c45f52dcf59e464164235",
+    "size": 3504,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/glTF_RGB_June16.svg?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/blob/main/2.0/glTF_RGB_June16.svg",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/blobs/cda5f6e5d2508cf7d88c45f52dcf59e464164235",
+    "download_url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/main/2.0/glTF_RGB_June16.svg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/glTF_RGB_June16.svg?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/blobs/cda5f6e5d2508cf7d88c45f52dcf59e464164235",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/blob/main/2.0/glTF_RGB_June16.svg"
+    }
+  },
+  {
+    "name": "model-index.json",
+    "path": "2.0/model-index.json",
+    "sha": "2884ff7a5be51fef1bdb43e6cd8e9a5b47d405b5",
+    "size": 21318,
+    "url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/model-index.json?ref=main",
+    "html_url": "https://github.com/KhronosGroup/glTF-Sample-Models/blob/main/2.0/model-index.json",
+    "git_url": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/blobs/2884ff7a5be51fef1bdb43e6cd8e9a5b47d405b5",
+    "download_url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/main/2.0/model-index.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/contents/2.0/model-index.json?ref=main",
+      "git": "https://api.github.com/repos/KhronosGroup/glTF-Sample-Models/git/blobs/2884ff7a5be51fef1bdb43e6cd8e9a5b47d405b5",
+      "html": "https://github.com/KhronosGroup/glTF-Sample-Models/blob/main/2.0/model-index.json"
+    }
+  }
+]
