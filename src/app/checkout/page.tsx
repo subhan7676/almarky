@@ -2,8 +2,7 @@
 
 import Link from "next/link";
 import { useRouter } from "next/navigation";
-import { useEffect, useRef, useState } from "react";
-import { RequireAuth } from "@/components/auth/require-auth";
+import { useEffect, useState } from "react";
 import { useAuth } from "@/components/providers/auth-provider";
 import { useLocalCart } from "@/components/providers/local-cart-provider";
 import { useLocalProfile } from "@/components/providers/local-profile-provider";
@@ -45,18 +44,9 @@ export default function CheckoutPage() {
     {},
   );
   const [message, setMessage] = useState<string | null>(null);
-  const [confirmStep, setConfirmStep] = useState<0 | 1 | 2>(0);
   const [submitting, setSubmitting] = useState(false);
   const [orderPlacedToastOpen, setOrderPlacedToastOpen] = useState(false);
-  const redirectTimerRef = useRef<number | null>(null);
-
-  useEffect(() => {
-    return () => {
-      if (redirectTimerRef.current) {
-        window.clearTimeout(redirectTimerRef.current);
-      }
-    };
-  }, []);
+  
 
   useEffect(() => {
     if (!hydrated) return;
@@ -77,7 +67,7 @@ export default function CheckoutPage() {
     setErrors((prev) => ({ ...prev, [key]: undefined }));
   };
 
-  const prepareConfirmation = () => {
+  const submitOrder = () => {
     const nextErrors = validateCustomerDetails(customerDetails);
     setErrors(nextErrors);
     if (Object.keys(nextErrors).length > 0) return;
@@ -85,7 +75,7 @@ export default function CheckoutPage() {
       setMessage("Select at least one item from cart before checkout.");
       return;
     }
-    setConfirmStep(1);
+    void placeFinalOrder();
   };
 
   const placeFinalOrder = async () => {
@@ -164,16 +154,10 @@ export default function CheckoutPage() {
 
       setMessage(null);
       setOrderPlacedToastOpen(true);
-      setConfirmStep(0);
       const warningQuery = result.warning
         ? `?warning=${encodeURIComponent(result.warning)}`
         : "";
-      if (redirectTimerRef.current) {
-        window.clearTimeout(redirectTimerRef.current);
-      }
-      redirectTimerRef.current = window.setTimeout(() => {
-        router.push(`/order-confirmation/${placedOrderId}${warningQuery}`);
-      }, 700);
+      router.push(`/order-confirmation/${placedOrderId}${warningQuery}`);
     } catch (error) {
       setMessage(
         error instanceof Error ? error.message : "Failed to place order. Try again.",
@@ -184,7 +168,6 @@ export default function CheckoutPage() {
   };
 
   return (
-    <RequireAuth>
       <section className="space-y-6">
         <RectToast
           open={orderPlacedToastOpen}
@@ -317,14 +300,12 @@ export default function CheckoutPage() {
               </div>
               <button
                 type="button"
-                onClick={prepareConfirmation}
+                onClick={submitOrder}
+                disabled={submitting}
                 className="anim-interactive mt-4 inline-flex w-full items-center justify-center rounded-xl bg-slate-900 px-4 py-3 text-sm font-bold text-white hover:bg-slate-700"
               >
-                Review COD Order
+                {submitting ? "Placing..." : "Place COD Order"}
               </button>
-              <p className="mt-2 text-xs text-slate-500">
-                You will confirm this order in two steps.
-              </p>
             </aside>
           </div>
         ) : null}
@@ -335,18 +316,7 @@ export default function CheckoutPage() {
           </div>
         ) : null}
 
-        {confirmStep > 0 ? (
-          <ConfirmModal
-            step={confirmStep === 1 ? 1 : 2}
-            grandTotal={grandTotal}
-            submitting={submitting}
-            onCancel={() => setConfirmStep(0)}
-            onProceed={() => setConfirmStep(2)}
-            onConfirm={() => void placeFinalOrder()}
-          />
-        ) : null}
       </section>
-    </RequireAuth>
   );
 }
 
@@ -417,63 +387,5 @@ function SelectField({
       </select>
       {error ? <span className="text-xs text-rose-600">{error}</span> : null}
     </label>
-  );
-}
-
-function ConfirmModal({
-  step,
-  grandTotal,
-  submitting,
-  onCancel,
-  onProceed,
-  onConfirm,
-}: {
-  step: 1 | 2;
-  grandTotal: number;
-  submitting: boolean;
-  onCancel: () => void;
-  onProceed: () => void;
-  onConfirm: () => void;
-}) {
-  return (
-    <div className="fixed inset-0 z-50 grid place-items-center bg-slate-900/50 p-4">
-      <div className="anim-modal w-full max-w-md rounded-2xl bg-white p-4 shadow-xl sm:p-5">
-        <h3 className="text-lg font-bold text-slate-900">
-          {step === 1 ? "Confirm Step 1" : "Final Confirmation"}
-        </h3>
-        <p className="mt-2 text-sm text-slate-600">
-          {step === 1
-            ? `You are placing a COD order for ${formatPKR(grandTotal)}. Continue?`
-            : "This will place your order now and reduce stock immediately."}
-        </p>
-        <div className="mt-4 flex justify-end gap-2">
-          <button
-            type="button"
-            onClick={onCancel}
-            className="anim-interactive rounded-xl border border-slate-200 px-3 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-100"
-          >
-            Cancel
-          </button>
-          {step === 1 ? (
-            <button
-              type="button"
-              onClick={onProceed}
-              className="anim-interactive rounded-xl bg-slate-900 px-3 py-2 text-sm font-semibold text-white hover:bg-slate-700"
-            >
-              Proceed to Final Step
-            </button>
-          ) : (
-            <button
-              type="button"
-              disabled={submitting}
-              onClick={onConfirm}
-              className="anim-interactive rounded-xl bg-orange-600 px-3 py-2 text-sm font-semibold text-white hover:bg-orange-500 disabled:opacity-50"
-            >
-              {submitting ? "Placing..." : "Place COD Order"}
-            </button>
-          )}
-        </div>
-      </div>
-    </div>
   );
 }
