@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { useParams, useRouter } from "next/navigation";
 import { useEffect, useMemo, useRef, useState } from "react";
-import { ArrowLeft, House, ShoppingBag } from "lucide-react";
+import { ArrowLeft, ShoppingBag } from "lucide-react";
 import { useAuth } from "@/components/providers/auth-provider";
 import { useLocalCart } from "@/components/providers/local-cart-provider";
 import { RectToast } from "@/components/ui/rect-toast";
@@ -223,7 +223,7 @@ export default function ProductDetailPage() {
   }
 
   return (
-    <section className="space-y-6 pb-16 md:pb-0">
+    <section className="space-y-5 pb-32 md:pb-0">
       <RectToast open={toastOpen} message={toastMessage} tone="success" />
       <Link
         href="/"
@@ -234,9 +234,9 @@ export default function ProductDetailPage() {
       </Link>
 
       <div className="anim-surface rounded-3xl bg-white p-3 shadow-sm ring-1 ring-slate-200 sm:p-5">
-        <div className="grid gap-2 grid-cols-[minmax(0,0.95fr)_minmax(0,1.05fr)] sm:gap-4 lg:grid-cols-[minmax(0,1.1fr)_minmax(0,0.9fr)] lg:gap-6">
+        <div className="grid gap-4 lg:grid-cols-[minmax(0,1.1fr)_minmax(0,0.9fr)] lg:gap-6">
           <div className="anim-list-stagger space-y-3">
-            <div className="overflow-hidden rounded-2xl bg-slate-100">
+            <div className="h-[50vh] min-h-[260px] overflow-hidden rounded-2xl bg-slate-100 sm:h-[420px] lg:h-[520px]">
               <Image
                 src={
                   optimizeImageUrl(product.images[selectedImage] || "/globe.svg", {
@@ -248,10 +248,10 @@ export default function ProductDetailPage() {
                 width={900}
                 height={700}
                 sizes="(min-width: 1024px) 50vw, 100vw"
-                className="max-h-[52vh] w-full object-contain sm:max-h-[520px]"
+                className="h-full w-full object-contain"
               />
             </div>
-            <div className="grid grid-cols-4 gap-2">
+            <div className="grid grid-cols-5 gap-1.5 sm:grid-cols-4 sm:gap-2">
               {product.images.map((image, index) => (
                 <button
                   key={image}
@@ -272,16 +272,16 @@ export default function ProductDetailPage() {
                     width={240}
                     height={180}
                     sizes="96px"
-                    className="h-14 w-full object-cover sm:h-20"
+                    className="h-12 w-full object-cover sm:h-16"
                   />
                 </button>
               ))}
             </div>
           </div>
 
-          <div className="anim-list-stagger space-y-4">
+          <div className="anim-list-stagger space-y-3">
             <div>
-              <p className="text-[11px] font-bold uppercase tracking-wider text-orange-600 sm:text-xs">
+              <p className="text-[10px] font-bold uppercase tracking-wider text-orange-600 sm:text-xs">
                 {product.category} / {product.type}
               </p>
               {product.isHotDeal ? (
@@ -289,29 +289,31 @@ export default function ProductDetailPage() {
                   Hot Deal
                 </span>
               ) : null}
-              <h1 className="mt-1 text-xl font-black text-slate-900 sm:text-3xl">
+              <h1 className="mt-1 text-lg font-black text-slate-900 sm:text-2xl lg:text-3xl">
                 {product.name}
               </h1>
             </div>
 
-            <div className="rounded-2xl bg-orange-50 p-3 ring-1 ring-orange-100 sm:p-4">
+            <div className="rounded-2xl bg-orange-50 p-2.5 ring-1 ring-orange-100 sm:p-4">
               <div className="flex items-end gap-2">
-                <p className="text-xl font-black text-slate-900 sm:text-2xl">
+                <p className="text-lg font-black text-slate-900 sm:text-2xl">
                   {formatPKR(product.sellingPrice)}
                 </p>
                 {product.originalPrice > product.sellingPrice ? (
-                  <p className="text-xs text-slate-500 line-through sm:text-sm">
+                  <p className="text-[11px] text-slate-500 line-through sm:text-sm">
                     {formatPKR(product.originalPrice)}
                   </p>
                 ) : null}
               </div>
-              <p className="mt-1 text-xs text-slate-600 sm:text-sm">
+              <p className="mt-1 text-[11px] text-slate-600 sm:text-sm">
                 Delivery fee: <strong>{formatPKR(product.deliveryFee)}</strong>
               </p>
             </div>
 
             <div>
-              <p className="mb-2 text-sm font-bold text-slate-800">Choose Color</p>
+              <p className="mb-2 text-xs font-bold text-slate-800 sm:text-sm">
+                Choose Color
+              </p>
               <div className="flex flex-wrap gap-2">
                 {product.colors.map((color) => {
                   const isActive = selectedColor?.colorName === color.colorName;
@@ -322,7 +324,7 @@ export default function ProductDetailPage() {
                       type="button"
                       onClick={() => setSelectedColorName(color.colorName)}
                       disabled={unavailable}
-                      className={`anim-interactive inline-flex items-center gap-2 rounded-xl px-3 py-2 text-xs font-semibold ring-1 sm:text-sm ${
+                      className={`anim-interactive inline-flex items-center gap-2 rounded-xl px-2.5 py-2 text-[11px] font-semibold ring-1 sm:px-3 sm:text-sm ${
                         isActive
                           ? "bg-slate-900 text-white ring-slate-900"
                           : "bg-white text-slate-700 ring-slate-200"
@@ -340,7 +342,9 @@ export default function ProductDetailPage() {
             </div>
 
             <div>
-              <p className="mb-2 text-sm font-bold text-slate-800">Quantity</p>
+              <p className="mb-2 text-xs font-bold text-slate-800 sm:text-sm">
+                Quantity
+              </p>
               <input
                 type="number"
                 min={1}
@@ -351,10 +355,10 @@ export default function ProductDetailPage() {
                     Math.max(1, Math.min(Number(event.target.value) || 1, maxAvailable || 1)),
                   )
                 }
-                className="anim-input w-24 rounded-xl border border-slate-200 px-3 py-2 text-sm outline-none focus:ring focus:ring-orange-200 sm:w-28"
+                className="anim-input w-24 rounded-xl border border-slate-200 px-3 py-2 text-xs outline-none focus:ring focus:ring-orange-200 sm:w-28 sm:text-sm"
               />
               {selectedColor ? (
-                <p className="mt-1 text-xs text-slate-500">
+                <p className="mt-1 text-[11px] text-slate-500">
                   {selectedColor.stock} units available for {selectedColor.colorName}
                 </p>
               ) : null}
@@ -381,7 +385,7 @@ export default function ProductDetailPage() {
             </div>
 
             {notice ? (
-              <p className="rounded-xl bg-slate-100 px-3 py-2 text-sm text-slate-700">
+              <p className="rounded-xl bg-slate-100 px-3 py-2 text-xs text-slate-700 sm:text-sm">
                 {notice}
               </p>
             ) : null}
@@ -390,19 +394,19 @@ export default function ProductDetailPage() {
 
         <div className="mt-5 border-t border-slate-200 pt-4">
           <h2 className="text-sm font-bold text-slate-900">Description</h2>
-          <p className="mt-2 whitespace-pre-line text-sm leading-6 text-slate-600">
+          <p className="mt-2 whitespace-pre-line text-[13px] leading-6 text-slate-600 sm:text-sm">
             {product.description}
           </p>
         </div>
       </div>
 
-      <div className="fixed inset-x-0 bottom-0 z-40 border-t border-slate-200 bg-white/95 px-3 py-2 shadow-[0_-10px_30px_-20px_rgba(15,23,42,0.4)] backdrop-blur md:hidden">
+      <div className="fixed inset-x-0 bottom-[92px] z-40 border-t border-slate-200 bg-white/95 px-3 py-2 shadow-[0_-10px_30px_-20px_rgba(15,23,42,0.4)] backdrop-blur md:hidden">
         <div className="mx-auto flex w-full max-w-5xl items-center gap-2">
           <button
             type="button"
             onClick={() => onAddToCart(true)}
             disabled={!selectedColor || maxAvailable <= 0}
-            className="anim-interactive flex-1 rounded-xl bg-slate-900 px-3 py-2.5 text-xs font-bold text-white hover:bg-slate-700 disabled:cursor-not-allowed disabled:bg-slate-300"
+            className="anim-interactive flex-1 rounded-xl bg-slate-900 px-3 py-2.5 text-[11px] font-bold text-white hover:bg-slate-700 disabled:cursor-not-allowed disabled:bg-slate-300"
           >
             Add To Cart
           </button>
@@ -410,17 +414,10 @@ export default function ProductDetailPage() {
             type="button"
             onClick={onOrderNow}
             disabled={!selectedColor || maxAvailable <= 0}
-            className="anim-interactive flex-1 rounded-xl bg-emerald-600 px-3 py-2.5 text-xs font-bold text-white hover:bg-emerald-500 disabled:cursor-not-allowed disabled:bg-slate-300"
+            className="anim-interactive flex-1 rounded-xl bg-emerald-600 px-3 py-2.5 text-[11px] font-bold text-white hover:bg-emerald-500 disabled:cursor-not-allowed disabled:bg-slate-300"
           >
             Order Now
           </button>
-          <Link
-            href="/"
-            aria-label="Home"
-            className="anim-interactive inline-flex size-10 items-center justify-center rounded-xl border border-slate-200 bg-white text-slate-700 hover:bg-slate-100"
-          >
-            <House className="size-5" />
-          </Link>
         </div>
       </div>
 
