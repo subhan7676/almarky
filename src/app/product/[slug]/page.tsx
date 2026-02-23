@@ -223,7 +223,7 @@ export default function ProductDetailPage() {
   }
 
   return (
-    <section className="space-y-5 pb-28 md:pb-0">
+    <section className="space-y-5 pb-24 md:pb-0">
       <RectToast open={toastOpen} message={toastMessage} tone="success" />
       <Link
         href="/"
@@ -364,6 +364,25 @@ export default function ProductDetailPage() {
               ) : null}
             </div>
 
+            <div className="flex gap-2 md:hidden">
+              <button
+                type="button"
+                onClick={() => onAddToCart(true)}
+                disabled={!selectedColor || maxAvailable <= 0}
+                className="anim-interactive flex-1 rounded-xl bg-slate-900 px-3 py-2.5 text-[11px] font-bold text-white hover:bg-slate-700 disabled:cursor-not-allowed disabled:bg-slate-300"
+              >
+                Add To Cart
+              </button>
+              <button
+                type="button"
+                onClick={onOrderNow}
+                disabled={!selectedColor || maxAvailable <= 0}
+                className="anim-interactive flex-1 rounded-xl bg-emerald-600 px-3 py-2.5 text-[11px] font-bold text-white hover:bg-emerald-500 disabled:cursor-not-allowed disabled:bg-slate-300"
+              >
+                Order Now
+              </button>
+            </div>
+
             <div className="hidden gap-3 md:grid md:grid-cols-2">
               <button
                 type="button"
@@ -397,27 +416,6 @@ export default function ProductDetailPage() {
           <p className="mt-2 whitespace-pre-line text-[13px] leading-6 text-slate-600 sm:text-sm">
             {product.description}
           </p>
-        </div>
-      </div>
-
-      <div className="fixed inset-x-0 bottom-[78px] z-40 border-t border-slate-200 bg-white/95 px-3 py-2 shadow-[0_-10px_30px_-20px_rgba(15,23,42,0.4)] backdrop-blur md:hidden">
-        <div className="mx-auto flex w-full max-w-5xl items-center gap-2">
-          <button
-            type="button"
-            onClick={() => onAddToCart(true)}
-            disabled={!selectedColor || maxAvailable <= 0}
-            className="anim-interactive flex-1 rounded-xl bg-slate-900 px-3 py-2.5 text-[11px] font-bold text-white hover:bg-slate-700 disabled:cursor-not-allowed disabled:bg-slate-300"
-          >
-            Add To Cart
-          </button>
-          <button
-            type="button"
-            onClick={onOrderNow}
-            disabled={!selectedColor || maxAvailable <= 0}
-            className="anim-interactive flex-1 rounded-xl bg-emerald-600 px-3 py-2.5 text-[11px] font-bold text-white hover:bg-emerald-500 disabled:cursor-not-allowed disabled:bg-slate-300"
-          >
-            Order Now
-          </button>
         </div>
       </div>
 
