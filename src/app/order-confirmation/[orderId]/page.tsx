@@ -5,7 +5,6 @@ import Link from "next/link";
 import { useParams, useSearchParams } from "next/navigation";
 import { useEffect, useMemo, useState } from "react";
 import { CheckCircle2, Package, ReceiptText, Truck } from "lucide-react";
-import { RequireAuth } from "@/components/auth/require-auth";
 import { useAuth } from "@/components/providers/auth-provider";
 import { LoadingState } from "@/components/ui/loading-state";
 import {
@@ -61,15 +60,10 @@ export default function OrderConfirmationPage() {
   const loading = configured && Boolean(user?.uid) && !remoteChecked && !order;
 
   if (loading) {
-    return (
-      <RequireAuth>
-        <LoadingState label="Loading order confirmation..." />
-      </RequireAuth>
-    );
+    return <LoadingState label="Loading order confirmation..." />;
   }
 
   return (
-    <RequireAuth>
       <section className="space-y-6">
         <div className="anim-hero-gradient overflow-hidden rounded-3xl bg-gradient-to-r from-emerald-700 via-cyan-700 to-slate-900 p-4 text-white sm:p-6">
           <p className="inline-flex items-center gap-2 text-xs font-bold uppercase tracking-[0.24em] text-emerald-100">
@@ -245,7 +239,6 @@ export default function OrderConfirmationPage() {
           </div>
         )}
       </section>
-    </RequireAuth>
   );
 }
 
