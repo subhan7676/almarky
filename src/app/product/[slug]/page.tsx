@@ -223,7 +223,7 @@ export default function ProductDetailPage() {
   }
 
   return (
-    <section className="space-y-5 pb-32 md:pb-0">
+    <section className="space-y-5 pb-28 md:pb-0">
       <RectToast open={toastOpen} message={toastMessage} tone="success" />
       <Link
         href="/"
@@ -400,7 +400,7 @@ export default function ProductDetailPage() {
         </div>
       </div>
 
-      <div className="fixed inset-x-0 bottom-[92px] z-40 border-t border-slate-200 bg-white/95 px-3 py-2 shadow-[0_-10px_30px_-20px_rgba(15,23,42,0.4)] backdrop-blur md:hidden">
+      <div className="fixed inset-x-0 bottom-[78px] z-40 border-t border-slate-200 bg-white/95 px-3 py-2 shadow-[0_-10px_30px_-20px_rgba(15,23,42,0.4)] backdrop-blur md:hidden">
         <div className="mx-auto flex w-full max-w-5xl items-center gap-2">
           <button
             type="button"
