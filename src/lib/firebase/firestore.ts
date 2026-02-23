@@ -903,15 +903,16 @@ export async function placeOrderFromCart(
 ) {
   const auth = getClientAuth();
   const currentUser = auth.currentUser;
-  if (!currentUser) throw new Error("Login is required.");
-
-  const idToken = await currentUser.getIdToken();
+  const idToken = currentUser ? await currentUser.getIdToken() : null;
+  const headers: Record<string, string> = {
+    "Content-Type": "application/json",
+  };
+  if (idToken) {
+    headers.Authorization = `Bearer ${idToken}`;
+  }
   const response = await fetch("/api/orders/place", {
     method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      Authorization: `Bearer ${idToken}`,
-    },
+    headers,
     body: JSON.stringify({
       selectedItems,
       customerDetails,
