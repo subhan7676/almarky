@@ -249,6 +249,9 @@ export async function POST(request: NextRequest) {
     const normalizedCustomer = normalizeCustomerDetails(customerDetails);
     const orderId = randomUUID();
     const orderNumber = generateOrderNumber();
+    if (!email) {
+      email = `guest-${orderId}@almarky.local`;
+    }
 
     const subtotal = orderItems.reduce(
       (sum, item) => sum + item.unitPrice * item.quantity,
