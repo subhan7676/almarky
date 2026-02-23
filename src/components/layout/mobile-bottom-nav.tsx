@@ -21,6 +21,10 @@ export function MobileBottomNav() {
   const { user } = useAuth();
   const { cartCount, hydrated } = useLocalCart();
 
+  if (pathname.startsWith("/product/")) {
+    return null;
+  }
+
   const accountHref = user ? "/profile" : "/login";
 
   const items: MobileNavItem[] = [
