@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { useParams, useRouter } from "next/navigation";
 import { useEffect, useMemo, useRef, useState } from "react";
-import { ArrowLeft, ShoppingBag } from "lucide-react";
+import { ArrowLeft, House, ShoppingBag } from "lucide-react";
 import { useAuth } from "@/components/providers/auth-provider";
 import { useLocalCart } from "@/components/providers/local-cart-provider";
 import { RectToast } from "@/components/ui/rect-toast";
@@ -22,7 +22,7 @@ export default function ProductDetailPage() {
   const params = useParams<{ slug: string }>();
   const router = useRouter();
   const slug = params.slug;
-  const { configured, configError } = useAuth();
+  const { configured, configError, user } = useAuth();
   const { addProductToCart, setAllSelection } = useLocalCart();
 
   const [product, setProduct] = useState<Product | null>(null);
@@ -108,9 +108,14 @@ export default function ProductDetailPage() {
     return product.colors.find((color) => color.stock > 0) ?? null;
   }, [product, selectedColorName]);
 
-  const onAddToCart = () => {
+  const onAddToCart = (requireLogin = false) => {
     if (!configured) {
       setNotice(configError ?? "Service setup is required.");
+      return;
+    }
+    if (requireLogin && !user) {
+      showToast("Login required to add to cart.");
+      router.push(`/login?return=/product/${slug}`);
       return;
     }
     if (!product || !selectedColor) return;
@@ -218,7 +223,7 @@ export default function ProductDetailPage() {
   }
 
   return (
-    <section className="space-y-6">
+    <section className="space-y-6 pb-16 md:pb-0">
       <RectToast open={toastOpen} message={toastMessage} tone="success" />
       <Link
         href="/"
@@ -355,10 +360,10 @@ export default function ProductDetailPage() {
               ) : null}
             </div>
 
-            <div className="grid gap-3 sm:grid-cols-2">
+            <div className="hidden gap-3 md:grid md:grid-cols-2">
               <button
                 type="button"
-                onClick={onAddToCart}
+                onClick={() => onAddToCart(false)}
                 disabled={!selectedColor || maxAvailable <= 0}
                 className="anim-interactive inline-flex w-full items-center justify-center gap-2 rounded-xl bg-slate-900 px-4 py-3 text-sm font-bold text-white hover:bg-slate-700 disabled:cursor-not-allowed disabled:bg-slate-300"
               >
@@ -385,9 +390,37 @@ export default function ProductDetailPage() {
 
         <div className="mt-5 border-t border-slate-200 pt-4">
           <h2 className="text-sm font-bold text-slate-900">Description</h2>
-          <p className="mt-2 text-sm leading-6 text-slate-600">
+          <p className="mt-2 whitespace-pre-line text-sm leading-6 text-slate-600">
             {product.description}
           </p>
+        </div>
+      </div>
+
+      <div className="fixed inset-x-0 bottom-0 z-40 border-t border-slate-200 bg-white/95 px-3 py-2 shadow-[0_-10px_30px_-20px_rgba(15,23,42,0.4)] backdrop-blur md:hidden">
+        <div className="mx-auto flex w-full max-w-5xl items-center gap-2">
+          <button
+            type="button"
+            onClick={() => onAddToCart(true)}
+            disabled={!selectedColor || maxAvailable <= 0}
+            className="anim-interactive flex-1 rounded-xl bg-slate-900 px-3 py-2.5 text-xs font-bold text-white hover:bg-slate-700 disabled:cursor-not-allowed disabled:bg-slate-300"
+          >
+            Add To Cart
+          </button>
+          <button
+            type="button"
+            onClick={onOrderNow}
+            disabled={!selectedColor || maxAvailable <= 0}
+            className="anim-interactive flex-1 rounded-xl bg-emerald-600 px-3 py-2.5 text-xs font-bold text-white hover:bg-emerald-500 disabled:cursor-not-allowed disabled:bg-slate-300"
+          >
+            Order Now
+          </button>
+          <Link
+            href="/"
+            aria-label="Home"
+            className="anim-interactive inline-flex size-10 items-center justify-center rounded-xl border border-slate-200 bg-white text-slate-700 hover:bg-slate-100"
+          >
+            <House className="size-5" />
+          </Link>
         </div>
       </div>
 
