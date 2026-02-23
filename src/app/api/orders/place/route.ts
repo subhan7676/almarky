@@ -219,15 +219,15 @@ async function saveOrderAndDecrementStock(params: {
 export async function POST(request: NextRequest) {
   try {
     const bearerToken = getBearerToken(request);
-    if (!bearerToken) {
-      throw new CheckoutError("Missing authorization token.", 401);
-    }
-
     const adminAuth = getAdminAuth();
+    let uid = `guest-${randomUUID()}`;
+    let email = "";
 
-    const decoded = await adminAuth.verifyIdToken(bearerToken);
-    const uid = decoded.uid;
-    const email = decoded.email ?? "";
+    if (bearerToken) {
+      const decoded = await adminAuth.verifyIdToken(bearerToken);
+      uid = decoded.uid;
+      email = decoded.email ?? "";
+    }
 
     const body = (await request.json()) as {
       selectedItems?: CheckoutCartSelection[];
