@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
@@ -76,7 +76,9 @@ export default function NotificationsPage() {
   const mergedNotifications = useMemo(() => {
     const merged = [...broadcastNotifications, ...inboxNotifications];
     return merged.sort(
-      (a, b) => (toDate(b.createdAt)?.getTime() ?? 0) - (toDate(a.createdAt)?.getTime() ?? 0),
+      (a, b) =>
+        (toDate(b.createdAt ?? b.updatedAt)?.getTime() ?? 0) -
+        (toDate(a.createdAt ?? a.updatedAt)?.getTime() ?? 0),
     );
   }, [broadcastNotifications, inboxNotifications]);
 
@@ -89,7 +91,8 @@ export default function NotificationsPage() {
   const newCount = useMemo(() => {
     if (!lastSeenAt) return visibleNotifications.length;
     return visibleNotifications.filter((item) => {
-      const createdAt = toDate(item.createdAt)?.getTime() ?? 0;
+      const createdAt =
+        toDate(item.createdAt ?? item.updatedAt)?.getTime() ?? 0;
       return createdAt > lastSeenAt;
     }).length;
   }, [visibleNotifications, lastSeenAt]);
@@ -170,7 +173,9 @@ export default function NotificationsPage() {
     if (loading) return;
     if (visibleNotifications.length === 0) return;
     const maxCreatedAt = Math.max(
-      ...visibleNotifications.map((item) => toDate(item.createdAt)?.getTime() ?? 0),
+      ...visibleNotifications.map(
+        (item) => toDate(item.createdAt ?? item.updatedAt)?.getTime() ?? 0,
+      ),
     );
     if (!maxCreatedAt) return;
     writeNotificationLastSeen(seenKey, maxCreatedAt);
@@ -234,8 +239,10 @@ export default function NotificationsPage() {
             {visibleNotifications.map((note) => {
               const isDeal = note.kind === "deal";
               const Icon = getNotificationIcon(note.kind);
-              const createdAt = toDate(note.createdAt)?.toLocaleString() ?? "";
-              const createdMs = toDate(note.createdAt)?.getTime() ?? 0;
+              const createdAt =
+                toDate(note.createdAt ?? note.updatedAt)?.toLocaleString() ?? "";
+              const createdMs =
+                toDate(note.createdAt ?? note.updatedAt)?.getTime() ?? 0;
               const isNew = Boolean(createdMs && createdMs > lastSeenAt);
               return (
                 <article
