@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 
 import Image from "next/image";
 import Link from "next/link";
@@ -123,7 +123,8 @@ export function SiteHeader() {
     if (!all.length) return 0;
     if (!lastSeenAt) return all.length;
     return all.filter((note) => {
-      const createdMs = toDate(note.createdAt)?.getTime() ?? 0;
+      const createdMs =
+        toDate(note.createdAt ?? note.updatedAt)?.getTime() ?? 0;
       return createdMs > lastSeenAt;
     }).length;
   }, [broadcastNotifications, inboxNotifications, lastSeenAt]);
